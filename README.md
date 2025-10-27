@@ -1,8 +1,8 @@
 ## 🧑‍💻 Autor
 
-João Victor Canavez
-Estudante de Engenharia de Software (Universidade Veiga de Almeida)
-Curso profissionalizante de Python (IT Step Academy)
+**João Victor Canavez**
+- **Estudante de Engenharia de Software (Universidade Veiga de Almeida)**
+- **Curso profissionalizante de Python (IT Step Academy)**
 
 Este repositório documenta meu avanço prático e teórico na linguagem Python.
 
